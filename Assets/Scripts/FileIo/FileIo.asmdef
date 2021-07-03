@@ -1,0 +1,16 @@
+{
+    "name": "FileIo",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d21818c00ce2225fba713d58d66f7810"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

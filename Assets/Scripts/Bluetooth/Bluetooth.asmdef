@@ -1,0 +1,17 @@
+{
+    "name": "Bluetooth",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d21818c00ce2225fba713d58d66f7810",
+        "GUID:0738fdf2ab1baa8f0b2bc50992c9fbaa"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
